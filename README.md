@@ -1,5 +1,9 @@
-# Site
+<div align="center">
+  <h1><code>WellBot</code></h1>
+</div>
 
-Site officiel de WELLBOT, open source !
+## Usage ##
+- Rendez vous sur https://seenkid.github.io/WellBot-Web/
 
-Toutefois, n'oubliez pas de nous créditer, cela soutient le projet ! 
+## Informations ##
+- Ce site ne récupère aucune donnée personnelle.

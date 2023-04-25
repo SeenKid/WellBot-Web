@@ -7,3 +7,6 @@
 
 ## Informations ##
 - Ce site ne récupère aucune donnée personnelle.
+
+## Bot updates ##
+- Le bot contient désormais des commandes d'OSINT

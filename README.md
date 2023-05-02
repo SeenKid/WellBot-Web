@@ -11,3 +11,7 @@
 ## Bot updates ##
 - Le bot contient désormais des commandes d'OSINT
 - Intégration d'une intelligence artificielle faite par nos soins (Type ChatGPT)
+
+## Futures MAJs ##
+- Nouveau site web prévu
+- Intégration AI

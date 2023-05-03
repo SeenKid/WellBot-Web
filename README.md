@@ -15,3 +15,5 @@
 ## Futures MAJs ##
 - Nouveau site web prévu
 - Intégration AI
+
+# Le nom du bot changera prochainement # 
